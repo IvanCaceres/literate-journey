@@ -1,4 +1,8 @@
-This solution may be run on both OS X and Windows machines, make sure that ports (:5000, :3000) are available and UN-USED by other applications/processes.
+This solution may be run on both OS X and Windows machines, make sure that you're on the latest Nodejs version, make sure that ports (:5000, :3000) are available and UN-USED by other applications/processes.
+
+
+As an aid to the user / UX I have provided a dropdown list for selectable device UUID's present in the data set, as well  as provided suggestion buttons for end_time timestamps to display relevant data.
+
 
 This project is grouped into folders for the backend api as well as the frontend react/typescript application:
 
