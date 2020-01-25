@@ -10,12 +10,17 @@ Instructions for running the project:
 First you can run the backend API server by running the following commands:
 
 `cd api`
+
 `pip install -r requirements.txt`
+
 `python api.py` (making sure to start the API server)
 
 You can then proceed to running the frontend application by switching to the frontend folder, (FROM PROJECT ROOT):
+
 `cd frontend`
+
 `yarn install`
+
 `yarn start` (starts the frontend UI app)
 
 
