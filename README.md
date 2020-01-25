@@ -1,3 +1,7 @@
+Backend Flask Api and Frontend React/Typescript chart component displaying data
+
+Video Demo ( https://streamable.com/s08jm )
+
 This solution may be run on both OS X and Windows machines, make sure that you're on the latest Nodejs version, make sure that ports (:5000, :3000) are available and UN-USED by other applications/processes.
 
 
