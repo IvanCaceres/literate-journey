@@ -1,4 +1,4 @@
-This solution may be run on both OS X and Windows machines, make sure that ports (:5000, :3000) are availabel and UN-USED by other applications/processes.
+This solution may be run on both OS X and Windows machines, make sure that ports (:5000, :3000) are available and UN-USED by other applications/processes.
 
 This project is grouped into folders for the backend api as well as the frontend react/typescript application:
 
