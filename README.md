@@ -1,20 +1,27 @@
 This project is grouped into folders for the backend api as well as the frontend react/typescript application:
 
 /api (backend Flask API server)
+
 /frontend (React/Typescript frontend application)
+
 
 Instructions for running the project:
 
 First you can run the backend API server by running the following commands:
 
-'cd api'
-'pip install -r requirements.txt'
-'python api.py' (making sure to start the API server)
+`cd api`
+
+`pip install -r requirements.txt`
+
+`python api.py` (making sure to start the API server)
 
 You can then proceed to running the frontend application by switching to the frontend folder, (FROM PROJECT ROOT):
-'cd frontend'
-'yarn install'
-'yarn start' (starts the frontend UI app)
+
+`cd frontend`
+
+`yarn install`
+
+`yarn start` (starts the frontend UI app)
 
 
 This is a frontend React/Typescript application that provides tight typing for the form the user may fill out to submit a network(Axios) API request. Form Values and Api Parameters are provided with typings in the codebase that aids readability for any developer wishing to dive into the project.
